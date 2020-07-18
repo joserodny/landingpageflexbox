@@ -1,0 +1,203 @@
+body{
+  margin: 0 auto;
+}
+.first{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px; 
+  width: 100%;
+  background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+  background-image: url('https://images.unsplash.com/photo-1437413646517-e98caade5a58?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
+}
+
+.firstpar{
+  width: 600px;
+  height: 300px;
+  margin-right: 250px;
+  margin-bottom: 50px;
+  color: white;
+}
+.vene{
+  font-size: 60px;
+  font-family: 'Krub', serif;
+}
+.twop{
+  display: flex;
+}
+.etiam{
+  margin-top: -60px;
+  font-size: 40px;
+  font-family: 'Marvel', serif;
+}
+.nulla{
+  padding-left: 10px;
+  margin-top: -70px;
+  font-size: 50px;
+  font-family: 'Kodchasan', serif;
+  color: #feba01;
+}
+.viv{
+  margin-top: -45px;
+  font-size: 20px;
+  font-family: 'Bubbler One', serif;
+}
+.second{
+  display: flex;
+  height: 500px;
+  width: 100%;
+  justify-content: center;
+}
+.secondcenter{
+  display: block;
+  width: 900px;
+  height: 400px;
+  margin-top: 60px;
+}
+.secondp{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Bubbler One', serif;
+}
+.secondp1{
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Marvel', serif;
+}
+.inboxitem{
+  padding-top: 10px;
+  display: flex;
+ 
+  text-align: left;
+  justify-content: center;
+}
+.dividerinbox{
+  flex-basis: 25%; 
+  margin-top: 20px;
+}
+.h2inbox{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Bubbler One', serif;
+}
+.pinbox{
+  font-size: 15px;
+  font-family: 'Marvel', serif;
+}
+.thirdbox{
+  display: flex;
+  width: 100%;
+  height: 300px;
+}
+.thirdboxdivider{
+  display: flex;
+  flex-basis: 50%;
+  align-items: center;
+  justify-content: center;
+}
+.num1box{
+  
+  background-color: #cccccc;
+}
+.num2box{
+  background-color: #efefef;
+}
+.num3box{
+  background-color: #cccccc;
+}
+.num4box{
+  background-color: #efefef;
+}
+.forthbox{
+  display: flex;
+  width: 100%;
+  height: 500px;
+  justify-content: center;
+}
+.fortboxitem{
+  
+  margin-top: 50px;
+  height: 400px;
+  width: 800px;
+  
+}
+.blacking{
+  display: inline-block;
+}
+.insnum{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Bubbler One', serif;
+}
+.insnum1{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Bubbler One', serif;
+}
+
+.forthboxitems{
+  display: flex;
+  text-align: center;
+}
+
+
+.circle {
+  display: inline-block;
+  border-radius: 100%;
+  min-width: 50px;
+  min-height: 50px;
+  padding: 40px;
+  background: rgb(54, 54, 54);
+  color: white;
+  text-align: center;
+  line-height: 1;
+  box-sizing: content-box;
+  white-space: nowrap;
+}
+
+
+.last{
+  display: flex;
+  height: 500px;
+  width: 100%;
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.lastdiv{
+  flex-basis: 50%;
+}
+.lastimage{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px; 
+  width: 100%;
+  background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+  background-image: url('https://images.unsplash.com/photo-1568819317551-31051b37f69f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80');
+}
+
+.lastleft{
+ padding-left: 50px;
+}
+
+
+
+
+.footer{
+display: block;
+  margin-top: 50px;
+  height: 100px;
+  background-color: black;
+}
+
+.twodiv{
+  display: flex;
+  flex-basis: 50%;
+}
